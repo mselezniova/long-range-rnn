@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+jax>=0.4.26
+jupyterlab>=4
+ipykernel>=6.20
+# GPU setup: python -m pip install --upgrade 'jax[cuda12]'
+# Paper figures additionally require system latex and dvipng.
